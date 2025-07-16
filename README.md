@@ -21,15 +21,15 @@ bringing visions of several companies to a reality by making a great progress in
 
 
 <p align="center">
-	<a href="https://github.com/stickaround">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=stickaround" />
+	<a href="https://github.com/petdani5lovi">
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=petdani5lovi" />
 	</a>
 </p>
 <p align="center">
-	<a href="https://github.com/stickaround">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stickaround&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
+	<a href="https://github.com/petdani5lovi">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petdani5lovi&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
-	<a href="https://github.com/stickaround">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=stickaround&show_icons=true&theme=dracula" />
+	<a href="https://github.com/petdani5lovi">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=petdani5lovi&show_icons=true&theme=dracula" />
 	</a>
 </p>
